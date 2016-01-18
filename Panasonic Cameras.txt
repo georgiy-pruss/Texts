@@ -1,15 +1,9 @@
 # Venus Engine (2002), II (2004), Plus (2005), III (2006), IV (2008), HD, V (2009), and VI, HD II, FHD (2010)
 # '+' means it has different name
-to add:
-Panasonic Lumix DMC-ZS100 (Lumix DMC-TZ100)
-Announced 1 week ago
-20 megapixels | 3″ screen | 25 – 250 mm (10×)
-$698
-	
-Panasonic Lumix DMC-ZS60 (Lumix DMC-TZ80)
-Panasonic Lumix DMC-ZS60 (Lumix DMC-TZ80)
-Announced 1 week ago
-18 megapixels | 3″ screen | 24 – 720 mm (30×)
+# to add:
+# ZS100 (TZ100) 20 megapixels | 3″ screen | 25 – 250 mm (10×)
+# ZS60 (TZ80) 18 megapixels | 3″ screen | 24 – 720 mm (30×)
+
 3D1      4x 2011 3d
 
 F5       5x 2013
