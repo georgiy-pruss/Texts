@@ -1,0 +1,315 @@
+# Venus Engine (2002), II (2004), Plus (2005), III (2006), IV (2008), HD, V (2009), and VI, HD II, FHD (2010)
+# '+' means it has different name
+to add:
+Panasonic Lumix DMC-ZS100 (Lumix DMC-TZ100)
+Announced 1 week ago
+20 megapixels | 3″ screen | 25 – 250 mm (10×)
+$698
+	
+Panasonic Lumix DMC-ZS60 (Lumix DMC-TZ80)
+Panasonic Lumix DMC-ZS60 (Lumix DMC-TZ80)
+Announced 1 week ago
+18 megapixels | 3″ screen | 24 – 720 mm (30×)
+3D1      4x 2011 3d
+
+F5       5x 2013
+F7       2x 2001
+
+# Ultra Compact (see also XS: XS1 ~ FH10)
+
+FH1+     5x 2010 FS10
+FH2+     4x 2011 FS16
+FH3+     5x 2010 FS11
+FH5+     4x 2011 FS18
+FH6      5x 2012
+FH7+     4x 2011 FS22
+FH8      5x 2012
+FH10     5x 2013
+FH20+    8x 2010 FS30
+FH22+    8x 2010 FS33
+FH25+    8x 2011 FS35
+FH27     8x 2011
+
+# Ultra compact, smallest
+
+FP1      4x 2010
+FP2      4x 2010
+FP3      4x 2010
+FP5      4x 2011
+FP7      4x 2011
+FP8       -  old
+
+# Ultra-compact mid-range, relatively typical cameras. Launched in January 2008. FS3, FS4, FS5, FS10, FS20, FS30, FS6, FS7, FS15, and, FS42.
+
+FS3       - 2008
+FS4       -  old
+FS5       -  old
+FS6       -  old
+FS7       -  old
+FS10+    5x 2010 FH1
+FS11+    5x 2010 FH3
+FS12      -  old
+FS15      -  old
+FS16+    4x 2011 FH2
+FS18+    4x 2011 FH5
+FS20      -  old
+FS22+    4x 2011 FH7
+FS25      -  old
+FS30+    8x 2010 FH20
+FS33+    8x 2010 FH22
+FS35+    8x 2011 FH25
+FS42      -  old
+FS45     5x 2013
+FS62      -  old
+
+# Ultra-compact, water-proof [Europe]
+
+FT1+      -  old TS1
+FT2+   4.6x 2010 TS2
+FT3+   4.6x 2011 TS3
+FT4+   4.6x 2012 TS4
+FT5+   4.6x 2013 TS5
+FT6+        2015 TS6
+FT10+    4x 2010 TS10
+FT20+    4x 2012 TS20
+FT25+    4x 2013 TS25
+FT30+    4x 2015 TS30
+
+# DMC-FX: Ultra-compact high-end, relatively typical cameras. The FX01 was the first ever ultra-compact with 28mm
+
+FX1       -  old
+FX2       -  old
+FX3       -  old
+FX5       -  old
+FX7       -  old
+FX8       -  old
+FX9       -  old
+FX01      -  old Leica C-Lux 1
+FX07      -  old
+FX10      -  old
+FX12      -  old
+FX30      - 2007
+FX33      -  old
+FX35      -  old
+FX37+     -  old FX38
+FX40+    5x 2009 FX48
+FX48+    5x 2009 FX40 eu
+FX50      -  old
+FX55      -  old
+FX60+     -  old FX65
+FX65+     -  old FX60
+FX66+    5x 2010 FX68
+FX68+    5x 2010 FX66
+FX70+    5x 2010 FX75
+FX75+    5x 2010 FX70
+FX77+    5x 2011 FX78
+FX78+    5x 2011 FX77
+FX80     5x 2011 jp
+FX90     5x 2011
+FX100     -  old
+FX150   3.6x old 1/1.72"
+FX500     -  old
+FX550+    -  old FX580
+FX580+    -  old FX550 eu
+FX700    5x 2010
+
+# DMC-FZx (excluding DMC-FZx0 models): Compact ultra-zoom higher-end cameras
+
+FZ1       -  old f/2.8! 35-240
+FZ2
+FZ3       -  old
+FZ4       -  old
+FZ5     12x  old
+FZ7     12x 2006
+FZ8     12x 2007
+FZ18    18x 2007
+FZ28    18x 2008
+FZ35+   18x 2009 FZ38 eu
+FZ38+   18x 2009 FZ35
+FZ40+   24x 2010 FZ45
+FZ45+   24x 2010 FZ40
+FZ47+   24x 2011 FZ48
+FZ48+   24x 2011 FZ47
+FZ60+   24x 2012 FZ62
+FZ62+   24x 2012 FZ60
+FZ70+   60x 2013 FZ72
+FZ72+   60x 2013 FZ70
+
+# DMC-FZx0: Bridge digital cameras (top ultra-zooms)
+
+FZ10    12x 2003 f/2.8!
+FZ20    12x 2004 f/2.8!
+FZ30    12x 2005
+FZ50    12x 2006 Leica V-Lux 1
+FZ100   24x 2010
+FZ150   24x 2011 Leica V-Lux 3
+FZ200   24x 2012 f/2.8!
+FZ300   24x 2015 f/2.8! 12M
+
+# DMC-G: Panasonic's Micro Four Thirds System line (Compact System Camera)
+
+G1      MFT 2008
+G2      MFT 2010
+G3      MFT 2011 16M
+G5      MFT 2012
+G6      MFT 2013 16M
+G7      MFT 2015
+G10     MFT 2010
+
+GF1     MFT 2009
+GF2     MFT 2010 12M small
+GF3     MFT 2011 12M small
+GF3X    MFT 2011 3x  small
+GF6     MFT 2013 16M
+GF7     MFT 2015 16M small
+
+GH1     MFT 2008
+GH2     MFT 2010 16M 10x big
+GH4     4/3 2014 16M 4K video
+
+GM1     MFT 2013 16M tiny
+
+GX1     MFT 2011
+GX7     MFT 2013
+GX8     MFT 2015 20M
+
+# DMC-L: Panasonic's DSLR line. It uses the Four Thirds System lens mount
+
+L1      4/3 2006 Leica Digilux 3
+L10     4/3 2007
+
+# DMC-LCx: LC5 and LC1 are compact ultra high-end cameras
+
+LC1       -  old Leica Digilux 1
+LC5       - 2001 Leica Digilux 2
+
+# DMC-LCxx: medium-compact-size, mid-range cameras
+
+LC20      -  old
+LC33      -  old
+LC40      -  old
+LC43      -  old
+LC50      -  old
+LC70      -  old
+LC80      -  old
+
+# DMC-LF1: new hi-end serie, with EVF, w/o shoe, 1/1.7" CMOS
+
+LF1    7.1x 2013 12M F2.0-5.9/28-200 wifi
+
+# DMC-LS: Panasonic's cheapest line, budget plastic compact cameras powered by two AA batteries
+
+LS1       -  old
+LS2       -  old
+LS5      5x 2011
+LS60      -  old
+LS70      -  old
+LS75      -  old
+LS80      -  old
+LS85      -  old
+
+# DMC-LX: A compact high-end camera line, with full manual exposure and focus controls
+
+LX1       -  old
+LX2       -  old Leica D-Lux 3
+LX3    2.5x 2008 10M F2.0-2.8/24-60 1/1.63"CCD
+LX5    3.8x 2010 10M F2.0-3.3/24-90 1/1.63"CCD
+LX7    3.8x 2012 10M F1.4-2.3/24-90 1/1.7" CMOS
+
+# RX100 3.6 2012 20M F1.8-4.9/28-100 1" CMOS
+
+# DMC-LZ: Budget, but more advanced and with more user control than many other cameras; 5x
+
+LZ1       -  old
+LZ2      6x 2005
+LZ3       -  old
+LZ5       -  old
+LZ6       -  old
+LZ7       -  old
+LZ8       -  old
+LZ10      - 2008
+LZ20    21x 2012
+LZ30    35x 2013
+LZ40    42x 2014 20M 22-924
+
+S1       4x 2011
+S2       4x 2012
+S3       4x 2011
+S5       4x 20xx
+
+SZ1     10x 2012
+SZ3     10x 2013
+SZ5     10x 2012
+SZ7     10x 2012
+SZ8     12x 2014
+SZ9     10x 2013
+SZ10    12x 2015
+
+# DMC-TS: waterproof, shockproof, and dustproof point and shoot camera [USA]
+
+TS1+      -  old FT1
+TS2+   4.6x 2010 FT2
+TS3+   4.6x 2011 FT3
+TS4+   4.6x 2012 FT4
+TS5+   4.6x 2013 FT5
+TS6+   4.6x 2015 FT6
+TS10+    4x 2010 FT10
+TS20+    4x 2012 FT20
+TS25+    4x 2013 FT25
+TS30+    4x 2015 FT30
+
+# DMC-TZ: Compact, point and shoot 10x+ zoom cameras with image stabilization [outside USA]
+
+TZ1       - 2006
+TZ2       - 2006
+TZ3     10x 2006
+TZ4       -  old
+TZ5     10x  old TZ15 asia
+
+TZ6+    12x 2009 ZS1
+TZ7+    12x 2009 ZS3
+TZ8+    12x 2010 ZS5
+TZ10+   12x 2010 ZS7 usa
+TZ18+   16x 2011 ZS8
+TZ20+   16x 2011 ZS10 TZ22
+TZ22+   16x 2011 ZS10 TZ20
+TZ25+   16x 2012 ZS15
+TZ30+   20x 2012 ZS20
+TZ35+   20x 2013 ZS25
+TZ40+   20x 2013 ZS30 wifi
+TZ50    10x 2008
+TZ55+   20x 2014 ZS35 16M wifi
+TZ60+   30x 2014 ZS40 18M wifi gps
+TZ57+   20x 2015 ZS45 16M wifi
+TZ70+   30x 2015 ZS50 12M wifi
+
+# DMC-XS: Slim all-around-town
+
+XS1      5x 2013
+XS3      5x 2013
+
+ZR1+      -  old ZX1
+ZR3+     8x 2010 ZX3
+
+# DMC-ZS: Compact ultra-zoom high-end (offering HD video) cameras. successor to the successful TZ series [USA]
+
+ZS1+    12x 2009 TZ6
+ZS3+    12x 2009 TZ7
+ZS5+    12x 2010 TZ8
+ZS7+    12x 2010 TZ10
+ZS8+    16x 2011 TZ18
+ZS10+   16x 2011 TZ20 TZ22
+ZS15+   16x 2012 TZ25
+ZS19    20x 2012 ZS20
+ZS20+   20x 2012 TZ30 TZ31 ZS19
+ZS25+   20x 2013 TZ35
+ZS30+   20x 2013 TZ40 wifi
+ZS35+   20x 2014 TZ55 16M wifi
+ZS40+   30x 2014 TZ60 18M wifi gps
+ZS45+   20x 2015 TZ57 16M wifi
+ZS50+   30x 2015 TZ70 12M wifi
+
+ZX1+      -  old ZR1
+ZX3+     8x 2010 ZR3
+
+# http://en.wikipedia.org/wiki/Lumix
