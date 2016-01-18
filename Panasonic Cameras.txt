@@ -126,8 +126,8 @@ FZ47+   24x 2011 FZ48
 FZ48+   24x 2011 FZ47
 FZ60+   24x 2012 FZ62
 FZ62+   24x 2012 FZ60
-FZ70+   60x 2013 FZ72
-FZ72+   60x 2013 FZ70
+FZ70+   60x 2013 FZ72 20!-1200
+FZ72+   60x 2013 FZ70 20!-1200
 
 # DMC-FZx0: Bridge digital cameras (top ultra-zooms)
 
